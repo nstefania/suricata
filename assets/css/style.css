@@ -1,0 +1,25 @@
+body, body+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+body{
+
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar-brand img{
+    height: 3.25rem;
+
+}
+
+.navbar{
+    background-color: #e83e8c !important;
+}
+#nuestros-productos{
+    font-size: 2rem;
+    font-weight: 70;
+    color: gray;
+}
